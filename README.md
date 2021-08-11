@@ -2,7 +2,7 @@
 
 [![Apache License Version 2.0](snowcrashdao/img/badge/License-code-Apache2.0-green.svg)](https://www.apache.org/licenses/LICENSE-2.0.html) [![Attribution 4.0 International (CC BY 4.0)](snowcrashdao/img/badge/License-art-CCBY4.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-`When SnowCrash Space 1.0 is released, we will make SnowCrash Space fully open source.`
+**When SnowCrash Space 1.0 is released, we will make SnowCrash Space fully open source.**
 
 ## About MetaVoxel
 
